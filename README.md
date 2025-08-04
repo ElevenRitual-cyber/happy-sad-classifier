@@ -27,5 +27,11 @@ A **Convolutional Neural Network (CNN)** built using **TensorFlow** and **OpenCV
 
 ---
 
+## 📦 Dataset
+
+This project uses the [Happy-Sad Images Dataset](https://www.kaggle.com/datasets/billbasener/happy-sad-images) from Kaggle.
+
+- The dataset contains labeled facial expression images stored in `happy/` and `sad/` folders.
+- Download and extract it into the `dataset/` folder before training.
 
 
