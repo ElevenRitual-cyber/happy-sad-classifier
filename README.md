@@ -25,6 +25,3 @@ This project uses the [Happy-Sad Images Dataset](https://www.kaggle.com/datasets
 
 This project also includes a **Flask API** (`app.py`) for serving the trained CNN model. The API allows users to upload an image and receive a prediction indicating whether the face is **happy** or **sad**.
 
-
-   ```bash
-   pip install -r requirements.txt
